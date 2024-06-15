@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrachur Paul</h1>
-<h3 align="center">A passionate Supply Chain Analyst from India</h3>
+<h3 align="center">An aspiring Supply Chain Analyst from India</h3>
 
 ## About Me
 
