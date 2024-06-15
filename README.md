@@ -29,9 +29,4 @@ Feel free to reach out to me via:
 - [Email](mailto:chandrachurpaul123@gmail.com)
 
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrachurpaul&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrachurpaul&layout=compact&theme=radical)
-
 
