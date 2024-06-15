@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a recent graduate in Industrial Engineeringand Manufacturing Engineering from Asian Institute of Technology, Bangkok. My aim is to leverage data analytics to optimize supply chain operations. My skill set includes proficiency in Power BI, MS Excel, Python, SQL, and comprehensive supply chain domain knowledge. I thrive on solving complex problems and improving efficiency through data-driven decision-making.
+I am a recent graduate in Industrial Engineering and Manufacturing Engineering from Asian Institute of Technology, Bangkok. My aim is to leverage data analytics to optimize supply chain operations. My skill set includes proficiency in Power BI, MS Excel, Python, SQL, and comprehensive supply chain domain knowledge. I thrive on solving complex problems and improving efficiency through data-driven decision-making.
 
 ## 🔧 Skills
 
