@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandrachur Paul</h1>
-<h3 align="center">An aspiring Supply Chain Analyst from India</h3>
+<h3 align="center">A Supply Chain Analyst from India</h3>
 
 ## About Me
 
-I am a recent graduate in Industrial Engineering and Manufacturing Engineering from Asian Institute of Technology, Bangkok. My aim is to leverage data analytics to optimize supply chain operations. My skill set includes proficiency in Power BI, MS Excel, Python, SQL, and comprehensive supply chain domain knowledge. I thrive on solving complex problems and improving efficiency through data-driven decision-making.
+I am a recent Master's graduate in Industrial and Manufacturing Engineering from the Asian Institute of Technology, Bangkok. My aim is to leverage data analytics to optimize supply chain operations. My skill set includes proficiency in Power BI, MS Excel, Python, SQL, and comprehensive supply chain domain knowledge. I thrive on solving complex problems and improving efficiency through data-driven decision-making.
 
 ## 🔧 Skills
 
